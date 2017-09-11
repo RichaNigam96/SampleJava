@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;CompileAspectAnnotation.attemptMetricName()&apos;&#x0D;&#x0A;- Original project: &apos;GrassHopper&apos;&#x0D;&#x0A;- Destination element: &apos;CompileAspectAnnotation.attemptMetricName()&apos;&#x0D;&#x0A;- Original element: &apos;CompileAspectAnnotation.attemptMetricName()&apos;" description="Copy method" destination="/compilerservice&lt;{CompileAspectAnnotation.java[CompileAspectAnnotation~attemptMetricName" element1="/compilerservice&lt;{CompileAspectAnnotation.java[CompileAspectAnnotation~attemptMetricName" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1504861658529" version="1.0"/>
+</session>
